@@ -12,6 +12,7 @@
 2.Multi-agent GuessWhich, AAMAS 2019(Oral), ICML 2018 WorkShop and CVPR 2018 WorkShop<br>
 3.GuessWhat?!, CVPR 2017<br>
 3.EmbodiedQA, CVPR 2018<br>
+3.VideoNavQA, BMVC 2019<br>
 4.GuessNumber, SLT 2018<br>
 5.VisDial, CVPR 2017<br>
 6.Image-Grounded Conversations(IGC), CVPR 2017<br>
