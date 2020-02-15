@@ -19,6 +19,6 @@
 11. VDQG, ICCV 2017<br>
 12. RDG-Image guessing game, LREC 2014<br>
 13. Deal or No Deal, CoRR 2017<br>
-14. Video-Grounded Dialogue Systems (VGDS), ACL 2019
+14. Video-Grounded Dialogue Systems (VGDS), ACL 2019<br>
 15. Vision-Language Navigation (VLN), CVPR 2018<br>
 16. VQA<br>
