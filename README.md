@@ -17,4 +17,7 @@
 5.VisDial, CVPR 2017<br>
 6.Image-Grounded Conversations(IGC), CVPR 2017<br>
 7.VDQG, ICCV 2017<br>
-10.VQA<br>
+8.RDG-Image guessing game, LREC 2014<br>
+9.Deal or No Deal, CoRR 2017<br>
+10.Video-Grounded Dialogue Systems (VGDS), ACL 2019
+20.VQA<br>
