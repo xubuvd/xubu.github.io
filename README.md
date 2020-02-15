@@ -9,7 +9,7 @@
 1. Multimodal Dialogs(MMD), AAAI 2018<br>
 2. CoDraw, ACL 2019<br>
 3. GuessWhich, AAAI 2017<br>
-4. Multi-agent GuessWhich, AAMAS 2019(Oral), ICML 2018 WorkShop and CVPR 2018 WorkShop<br>
+4. Multi-agent GuessWhich, AAMAS 2019<br>
 5. GuessWhat?!, CVPR 2017<br>
 6. EmbodiedQA, CVPR 2018<br>
 7. VideoNavQA, BMVC 2019<br>
